@@ -21,7 +21,7 @@ This repository holds the installers only. Karmachitra is free to use but it is 
 Every release lists the SHA-256 of its installer. To check your copy, open PowerShell in the folder that holds the file and run:
 
 ```
-Get-FileHash .\Karmachitra-Setup-1.0.1.exe -Algorithm SHA256
+Get-FileHash .\Karmachitra-Setup-1.0.2.exe -Algorithm SHA256
 ```
 
 Use the file name of the version you downloaded. The result must match the SHA-256 shown on that release. If it does not match, do not run the file, and please tell us through the contact page.
